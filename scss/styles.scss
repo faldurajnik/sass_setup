@@ -1,6 +1,8 @@
 $color: #000000;
 $forcolor:#ffffff;
+$fontSize:16px;
 body{
     background-color: $color;
     color: $forcolor;
+    font-size: $fontSize;
 }
